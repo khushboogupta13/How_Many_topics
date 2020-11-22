@@ -1,4 +1,5 @@
-# How_Many_topics
+# How Many topics? (Girlscript Summer of Code Extended 2020)
+![Image](https://github.com/khushboogupta13/How_Many_topics/blob/master/Covid_research/assets/girlscript.PNG)
   
 ## About How Many Topics? 
 **An open source project based on Topic Modeling, Classification, Natural Language Processing**.
